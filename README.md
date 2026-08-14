@@ -1,2 +1,2 @@
 # DSA
-Data Structures and Algorithms practice in Java with notes and solutions.
+Data Structures and Algorithms practice in Java and level up
